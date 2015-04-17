@@ -1,6 +1,7 @@
 FIXIT
 =================
-uiTable Columns suport
+uiTable Columns suport -> progress
+uiTable padding suport
 
 Description
 =================
