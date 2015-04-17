@@ -1,3 +1,7 @@
+FIXIT
+=================
+uiTable Columns suport
+
 Description
 =================
 A component that runs on top of NGUI's UIScrollView & UITable classes for Unity3D (i.e. It requires NGUI &amp; Unity3D) can be used with dynamic data.
